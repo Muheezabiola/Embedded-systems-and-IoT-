@@ -1,1 +1,1 @@
-
+This railway monitoring system monitors if there is any anomalies on the rail and alert the control room, before the arrival of the train, it detects if there is a blockage with ultrasonic sensor and also if there is a breakage with infrastucture sensor
