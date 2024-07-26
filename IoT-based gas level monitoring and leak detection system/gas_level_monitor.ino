@@ -4,9 +4,9 @@
 //#define BLYNK_DEVICE_NAME "Getting started"
 //#define BLYNK_AUTH_TOKEN "57xQ3I8tMFX5tsqzAuleqJsI0xU2wfaA"
 
-#define BLYNK_TEMPLATE_ID "TMPL2G6J2u_h-"
+#define BLYNK_TEMPLATE_ID "TMPLxxxx2GJ2u_h-"
 #define BLYNK_TEMPLATE_NAME "Gas level Monitor"
-#define BLYNK_AUTH_TOKEN "-xQDvkCPrXZ2_N9xUqjqFp1Q1Zza2Ham"
+#define BLYNK_AUTH_TOKEN "-xQDvkCPrXZ2_N9xUqjqFpxxxxxxxx"
 
 // Comment this out to disable prints and save space
 #define BLYNK_PRINT Serial
