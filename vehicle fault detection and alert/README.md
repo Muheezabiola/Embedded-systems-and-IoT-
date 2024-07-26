@@ -1,1 +1,1 @@
-
+This vehicle fault detection and alert system, uses vibration sensor to check the vibration level and temperature sensor, ds18b20 to check the temperature degree of the vehicle in order to diagnose for abnomalities. Then notified the pre-registered number via sms, using sim800l
