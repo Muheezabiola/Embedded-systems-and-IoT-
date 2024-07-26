@@ -9,7 +9,7 @@ int mq=32;
 //#include <Firebase_ESP_CLient.h>
 #define WIFI_SSID "TimiNet"
 #define WIFI_PASSWORD "987654321"
-#define API_KEY "AIzaSyDJYEwbqh_QU_fuDtMUupuYnJGUfgXmC48"
+#define API_KEY "AIzaSyxxxxxbqh_QU_fxxxxxxxxxxxxfgXmC48"
 #define DATABASE_URL "https://new-gas-system-default-rtdb.firebaseio.com" 
 int a, b, c, weight, gas, flame;
 FirebaseData fbdo;
