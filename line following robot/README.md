@@ -1,1 +1,1 @@
-
+This line following robot uses light dependent resistors in voltage divider circuits, as an alternative to using IR in order to differenciate between colors, the color of the lain that it is to follow and the one to avoid, two ldr was used together with the robotic car chasis and Arduino board and a motor driver to control the directions of the dc motors.
