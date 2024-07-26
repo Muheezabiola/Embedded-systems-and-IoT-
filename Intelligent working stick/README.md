@@ -1,1 +1,2 @@
-
+The intelligent walking stick senses obstacles with two ultrasonic sensors, one situated up and the other down, to give a wider anticipatory coverage of possible obstacles. It consists of an alerting system that gives off sound and vibration too (out of consideration for dumb, deaf and old people).
+On detecting a fall via the aid of a vibration sensor (it sends a WhatsApp message to a preregistered number as the guardian). A reset button was implemented to aid users seek help in cases of emergency.
